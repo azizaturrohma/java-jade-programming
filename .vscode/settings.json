@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "C:/Users/Lenovo/Documents/SEMESTER 4/SISTEM TERDISTRIBUSI/JadeProgramming/lib/jade.jar"
+  ],
+
+  "java.compile.nullAnalysis.nonnull": [
+    "javax.annotation.Nonnull",
+    "org.eclipse.jdt.annotation.NonNull",
+    "org.springframework.lang.NonNull"
+  ]
+}
